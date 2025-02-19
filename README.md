@@ -1,4 +1,7 @@
-# Churn Analysis Using Power BI  
+# Churn Analysis For Telecommunications Industry Using Power BI  
+
+![Alt Text](https://github.com/01-vivek-kumar/Churn-Analysis/blob/main/Project1.png))
+
 
 ## 1. Introduction  
 
@@ -172,6 +175,7 @@ With a clear understanding of **who churns and why**, the next step was **buildi
 
 ## 6. Power BI Dashboard & Visualizations  
 
+![Alt Text](https://github.com/01-vivek-kumar/Churn-Analysis/blob/main/Dashboard.png)
 
 
 ### **6.1 Dashboard Overview**  
@@ -233,7 +237,6 @@ To enhance user interactivity, I added:
 - **Marital Status**  
 
 🔹 **Tooltips** for deep insights into **churn reasons** when hovering over churn categories in the Summary Page.  
- 
 
 ## 7. Business Impact & Recommendations  
 
